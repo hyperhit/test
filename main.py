@@ -107,6 +107,7 @@ sum = 10
 for i in range(len(a)):
     sum = sum + a[i]
 average = sum / len(a)
+# 출력
 print(average)
 
 
